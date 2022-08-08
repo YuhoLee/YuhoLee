@@ -1,9 +1,8 @@
 ### My name is Yu ho Lee
 
-##### :school: Soonchunhyang Univ. Multi Media Lab (2019.03~2021.08)
-##### :teacher: SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ 2022.05)
-##### :people_holding_hands_tone1: Central Makeus Challange 10th Android (2022.04 ~ 2022.07)
-##### :desktop: Samsumg SW Academy For Youth 8th (2022.07 ~ )
+##### 🏫: The Universe Of Technology And Education (KOREATECH)
+##### 🧠: DeelLearning Challenge
+##### 🖥️: Samsumg SW Academy For Youth 8th 
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)

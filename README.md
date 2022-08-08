@@ -2,14 +2,13 @@
 
 ##### 🏫: The Universe Of Technology And Education (KOREATECH)
 ##### 🧠: DeelLearning Challenge
-##### 🖥️: Samsumg SW Academy For Youth 8th 
+##### 🏛️: Samsumg SW Academy For Youth 8th 
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=vue)
 <p>
-  <a href="https://blog.naver.com/rsw1452" target="_blank"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-  <a href="mailto:rsw1452@naver.com" target="_blank"><img src="https://img.shields.io/badge/rsw1452@naver.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="https://www.instagram.com/penguwin_sw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://feedcode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+  <a href="mailto:cdcdefg4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cdcdefg4@gmail.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
 </p>
 
 
@@ -18,7 +17,7 @@
 
 <hr>
 
-### :muscle: Skills
+### 🖥️: Skills
 #### Platform 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>

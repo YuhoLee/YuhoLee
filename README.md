@@ -1,4 +1,4 @@
-### My name is Yu ho Lee
+### My name is Yuho Lee
 
 ##### 🏫: The Universe Of Technology And Education (KOREATECH)
 ##### 🧠: DeelLearning Challenge

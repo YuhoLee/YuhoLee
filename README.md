@@ -1,4 +1,4 @@
-### My name is Seung Woo Yu, I hope to grow with everyone!:star:
+### My name is Yu ho Lee
 
 ##### :school: Soonchunhyang Univ. Multi Media Lab (2019.03~2021.08)
 ##### :teacher: SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ 2022.05)

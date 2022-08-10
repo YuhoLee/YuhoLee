@@ -33,7 +33,7 @@
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-313335?style=flat-square&logo=androidstudio&logoColor=99CC00"/>
-  <img src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PyTorch</title><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></svg>"/>
+  <img src="https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>

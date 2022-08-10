@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=vue)
 <p>
   <a href="https://feedcode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-  <a href="mailto:cdcdefg4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cdcdefg4@gmail.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="mailto:cdcdefg4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cdcdefg4@gmail.com-EA4335?style=flat-square/></a>
 </p>
 
 

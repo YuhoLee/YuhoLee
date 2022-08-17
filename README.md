@@ -1,7 +1,7 @@
 ### My name is Yuho Lee
 
 ##### 🏫: The Universe Of Technology And Education (KOREATECH)
-##### 🧠: DeelLearning Challenge
+##### 🧠: DeepLearning Challenge
 ##### 🏛️: Samsumg SW Academy For Youth 8th 
 </br>
 

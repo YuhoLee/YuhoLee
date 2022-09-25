@@ -1,8 +1,8 @@
-### My name is Yuho Lee
+## 제 이름은 이유호입니다!
 
-##### 🏫: The Universe Of Technology And Education (KOREATECH)
-##### 🧠: DeepLearning Challenge
-##### 🏛️: Samsumg SW Academy For Youth 8th 
+### 🏫: The Universe Of Technology And Education (KOREATECH)
+### 🧠: DeepLearning Challenge
+### 🏛️: Samsumg SW Academy For Youth 8th 
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=vue)

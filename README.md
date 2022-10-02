@@ -1,7 +1,7 @@
 ## 제 이름은 이유호입니다!
 
 ### 🏫: 한국기술교육대학교(KOREATECH) 졸업
-### 🏛️: 삼성 청년 소프트웨어 아카데미 8기 Mobile반
+### 🏛️: 삼성 청년 소프트웨어 아카데미 (SSAFY) 8기 Mobile반
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=vue)

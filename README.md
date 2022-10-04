@@ -5,7 +5,7 @@
 ### 🏛️: 삼성 청년 소프트웨어 아카데미 (SSAFY) 8기 Mobile반
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=onedark)](https://github.com/YuhoLee/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdcdefg4)](https://solved.ac/cdcdefg4/)
 <p>
   <a href="https://feedcode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-00C73C?style=flat-square&logo=Tistory&logoColor=white"/></a>

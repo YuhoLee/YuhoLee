@@ -1,4 +1,4 @@
-# LEE YU HO 😉
+# Lee Yuho 😉
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhoLee&&show_icons=true&theme=onedark)](https://github.com/YuhoLee/github-readme-stats)

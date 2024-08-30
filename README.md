@@ -10,7 +10,7 @@
 </b>
 
 
-<hr>
+</b>
 
 ### 🖥️: Skills
 #### Platform 
